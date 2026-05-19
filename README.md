@@ -25,6 +25,3 @@ It replicates the layout and design of Spotify’s web player, including sidebar
 
 ## Author
 Vyshnavi Chhetri
-
-## Site is live at 
-https://vyshnavichhetri22.github.io/Spotify-Web-Player---Clone/
